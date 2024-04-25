@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a Creative Writing graduate from George Mason University. I plan on creating my own gaming studio. So, I first began learning Python as my basis for coding languages and have now moved on to also learning languages such as C#, HTML, CSS and JavaScript. I plan on working on individual projects and taking on freelance projects in order to build my portfolio. I am interested in meeting other coders who would be interested in working on projects together and networking. 
+I first began learning Python as my basis for coding languages and have now moved on to also learning languages such as C#, HTML, CSS and JavaScript. I plan on working on individual projects and taking on freelance projects in order to build my portfolio. I am interested in meeting other coders who would be interested in working on projects together and networking. 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alunarbunnie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anu-altankhuyag-523b51145) 
