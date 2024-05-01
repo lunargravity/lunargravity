@@ -16,7 +16,7 @@ I'm currently working on a React Native habit tracker to showcase my Javascript 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lunargravity&icon=0&color=1)](https://visitcount.itsvg.in)
