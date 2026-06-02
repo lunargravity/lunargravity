@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on a React Native habit tracker to showcase my Javascript and React knowledge. Other languages I know are Python, HTML, CSS, Java, C#. I am interested in taking on freelance projects to build my portfolio.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anu-altankhuyag) 
 
@@ -14,12 +10,5 @@ I'm currently working on a React Native habit tracker to showcase my Javascript 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=lunargravity&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xtremelimes) 
-
-  
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
